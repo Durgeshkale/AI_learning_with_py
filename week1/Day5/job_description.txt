@@ -1,0 +1,40 @@
+Software Development Engineer II, Amazon
+Job ID: 10502808 | ADCI HYD 13 SEZ
+Description
+Revolutionize Global Financial Systems with Cutting-Edge Technology
+
+Are you passionate about building transformative financial technologies that power global transactions? Join our team and design innovative solutions that will impact millions of customers worldwide, leveraging the most advanced cloud technologies available.
+
+Elevator Pitch You'll be at the forefront of creating scalable financial systems that drive Amazon's global growth. In this role, you'll design and develop sophisticated software solutions that transform how financial transactions are processed, using state-of-the-art AWS cloud services to solve complex technological challenges.
+
+About the Team We are a collaborative and forward-thinking group dedicated to building next-generation financial technologies. Our team values innovation, technical excellence, and creating solutions that make a meaningful difference. We're committed to solving complex problems and driving technological advancement in the financial sector.
+
+Key job responsibilities
+- Define high level and low level design for software solutions using the latest AWS technology in a large distributed environment.
+- Define high-level and low-level architecture for distributed financial systems using modern AWS technologies.
+- Design, develop, test, and deploy scalable and reliable software solutions for accounting and financial operations.
+- Drive architecture and technology choices, ensuring alignment with long-term platform goals and scalability requirements.
+- Implement and advocate engineering best practices, including automation, testing, code reviews, and CI/CD pipelines.
+- Leverage data and metrics to enhance system performance, reliability, and operational efficiency.
+- Develop integration frameworks and APIs to streamline workflows and improve system interoperability.
+- Maintain exceptional code quality standards with emphasis on security, readability, and maintainability.
+- Collaborate with cross-functional teams across Finance, Product, and Platform Engineering to deliver high-impact solutions.
+- Drive continuous innovation through experimentation and adoption of modern technologies.
+- Experience or exposure to AI/ML technologies is a strong plus, particularly in building intelligent, predictive, or automation-driven financial systems.
+
+A day in the life
+A Day in the Life Your day will be dynamic and impactful. You'll collaborate with world-class engineers, architect innovative solutions, and tackle complex technological challenges. Expect to dive deep into cloud technologies, design intricate software systems, and continuously push the boundaries of what's possible in financial technology.
+
+About the team
+Amazon Financial Technology Team is looking for a results-oriented, driven software development engineer, who can help us create the next generation of distributed, scalable financial systems. Our ideal candidate thrives in a fast-paced environment, enjoys the challenge of highly complex business contexts that are typically being defined in real-time. We need someone to design and develop services that facilitate global financial transactions worth billions (USD) annually.
+
+Basic Qualifications
+- 3+ years of non-internship professional software development experience
+- 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+- Experience programming with at least one software programming language
+
+Preferred Qualifications
+- Experience in machine learning, data mining, information retrieval, statistics or natural language processing
+- Experience building complex software systems that have been successfully delivered to customers
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
