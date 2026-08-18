@@ -28,12 +28,10 @@ def get_product_price(product):
         return None
 
 def calculator(expression):
-    print("calaculator recieved expression:", repr(expression))
     try:
         result = eval(expression)
         return result
     except Exception as e:
-        print("calaculator error:", e)
         return "calculation error!"
 
 tools = {
@@ -67,7 +65,7 @@ Follow these rules:
 3. After writing an action stop immediatelty.
 4. Never guess or invent a tool result.
 5. Wait until you receive an observation.
-6. Decide yoour next action.
+6. Decide your next action.
 7. When the task is complete, give the final answer.
 
 Format:
